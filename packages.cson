@@ -9,4 +9,5 @@ packages: [
   "make-runner"
   "package-sync"
   "project-manager"
+  "zen"
 ]
