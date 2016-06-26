@@ -1,0 +1,64 @@
+"*":
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "504dcd40-c797-4559-5927-0bd6b27b561b"
+  "git-plus": {}
+  "keyboard-localization":
+    useKeyboardLayout: "es_ES"
+  latex: {}
+  latexer: {}
+  "make-runner": {}
+  "spell-check": {}
+  welcome:
+    showOnStartup: false
+".basic.html.text":
+  editor:
+    tabLength: 2
+    tabType: "hard"
+".bibtex.text":
+  editor:
+    softWrapAtPreferredLineLength: true
+    tabLength: 2
+    tabType: "hard"
+".gfm.source":
+  editor:
+    softWrapAtPreferredLineLength: true
+    tabLength: 2
+    tabType: "hard"
+".json.source":
+  editor:
+    showInvisibles: true
+    tabLength: 2
+    tabType: "soft"
+".latex.log.text":
+  editor:
+    tabLength: 2
+".latex.tex.text":
+  editor:
+    softWrapAtPreferredLineLength: true
+    tabLength: 2
+    tabType: "hard"
+".python.source":
+  editor:
+    preferredLineLength: 80
+    showInvisibles: true
+    softWrap: false
+    tabLength: 4
+    tabType: "soft"
+".raml.source":
+  editor:
+    showInvisibles: true
+    tabLength: 2
+    tabType: "soft"
+".source.yaml":
+  editor:
+    showInvisibles: true
+    tabLength: 2
+    tabType: "soft"
+".tex.text":
+  editor:
+    tabLength: 2
