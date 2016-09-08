@@ -1,4 +1,5 @@
 "*":
+  core: {}
   editor:
     invisibles: {}
     showInvisibles: true

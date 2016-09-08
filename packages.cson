@@ -1,11 +1,8 @@
 packages: [
-  "api-workbench"
   "git-plus"
   "language-latex"
   "latex"
   "latexer"
-  "linter"
-  "linter-jsonlint"
   "make-runner"
   "package-sync"
   "project-manager"
