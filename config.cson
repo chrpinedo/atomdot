@@ -1,5 +1,8 @@
 "*":
-  core: {}
+  "atom-terminal":
+    app: "/usr/bin/tilix"
+  core:
+    telemetryConsent: "limited"
   editor:
     invisibles: {}
     showInvisibles: true
@@ -43,6 +46,10 @@
     softWrapAtPreferredLineLength: true
     tabLength: 2
     tabType: "hard"
+".powershell.source":
+  editor:
+    preferredLineLength: 115
+    tabType: "soft"
 ".python.source":
   editor:
     preferredLineLength: 80

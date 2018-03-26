@@ -1,10 +1,9 @@
 packages: [
+  "atom-terminal"
   "git-plus"
-  "language-latex"
-  "latex"
-  "latexer"
-  "make-runner"
+  "language-powershell"
   "package-sync"
   "project-manager"
-  "zen"
+  "vim-mode-plus"
+  "Zen"
 ]
